@@ -297,6 +297,9 @@ int main(){
         else if(ch==3){
             modify_stock(root);
         }
+        else if(ch==4){
+            exit(0);
+        }
         system("pause");
     }
     
